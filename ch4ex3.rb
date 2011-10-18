@@ -1,0 +1,13 @@
+parms={}
+person1={}
+person1["first"]="first1
+person1{"last"]=last1
+parms["father']=person1
+person2={}
+person2["first"]="first2
+person2{"last"]=last2
+parms["mother']=person2
+person3={}
+person3["first"]="first3
+person3{"last"]=last3
+parms["child']=person3
